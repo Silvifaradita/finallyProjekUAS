@@ -1,8 +1,8 @@
 # PROJECT FINAL UAS 
 
-Nama : Tyanshi Firli Maharani
+Nama : Silvi Fara Dita
 
-NIM : 312210581
+NIM : 312210498
 
 Kelas : TI.22.A.5
 
@@ -10,10 +10,17 @@ Dosen pengampu : Donny Maulana, S.kom, M.kom, M.M.S.I.
 
 ## pdf
 
-[TUTORIAL PEMBUATAN PROJECT APLIKASI.pdf](https://github.com/firlimaharani/ProjectFirli/files/13914987/TUTORIAL.PEMBUATAN.PROJECT.APLIKASI.pdf)
+
+
+[TUTORIAL.PEMBUATAN.PROJECT.APLIKASI-1_Silvi.pdf](https://github.com/Silvifaradita/finallyProjekUAS/files/13945067/TUTORIAL.PEMBUATAN.PROJECT.APLIKASI-1_Silvi.pdf)
+
+
 
 ## run
 
-https://github.com/firlimaharani/ProjectFirli/assets/130529482/f7175390-a4e3-4c71-b844-a7dc836c8b1e
+
+
+https://github.com/Silvifaradita/finallyProjekUAS/assets/130021691/8837dff4-ddff-4edc-9fb5-f241bc921700
+
 
 
